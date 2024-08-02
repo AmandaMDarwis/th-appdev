@@ -1,2 +1,2 @@
-# th-appdev
+# GuessWord-Game
  University Project
